@@ -1,5 +1,5 @@
 # NOTE THIS IS FOR EDUCATIONAL PURPOSES ONLY 
-- and for finding ur own password on ur own device
+- and for finding ur OWN passwords on ur OWN device
 
 PasswordLeakerV5
 
