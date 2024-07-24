@@ -12,4 +12,4 @@ upcoming features
 - Will leak passwords from steam etc.
 
 Leaked passwords will be sent too the discord server
-too be invited add ._needle_. on discord
+too be invited add .‎ _needle_‎ . on discord
