@@ -13,3 +13,5 @@ upcoming features
 
 Leaked passwords will be sent too the discord server
 too be invited add .‎ _needle_‎ . on discord
+
+changing the webhook is also an option dm me for the source or fix it urself
